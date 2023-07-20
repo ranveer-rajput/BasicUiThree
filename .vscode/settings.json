@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "ARGB",
+        "pagetwo"
+    ],
+    "cSpell.enableFiletypes": [
+        "!dart"
+    ],
+    "cmake.configureOnOpen": false
+}
